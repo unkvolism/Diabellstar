@@ -1,4 +1,4 @@
-# Diabellstar — ETW Bypass via NtTraceEvent Hooking (Rust)
+# Diabellstar — ETW Bypass via NtTraceEvent Hooking 
 
 <p align="center">
   <img src="https://i.imgur.com/M0QtPDW.png" width="200" alt="Diabellstar"/>
