@@ -1,7 +1,7 @@
 # Diabellstar — ETW Bypass via NtTraceEvent Hooking 
 
 <p align="center">
-  <img src="https://i.imgur.com/M0QtPDW.png" width="200" alt="Diabellstar"/>
+  <img src="https://i.imgur.com/M0QtPDW.png" width="300" alt="Diabellstar"/>
 </p>
 
 
