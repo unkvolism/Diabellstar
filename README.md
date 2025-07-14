@@ -1,8 +1,9 @@
 # Diabellstar — ETW Bypass via NtTraceEvent Hooking (Rust)
 
 <p align="center">
-  <img src="[[https://upload.wikimedia.org/wikipedia/en/f/f5/Kuriboh.jpg]](https://i.imgur.com/M0QtPDW.png)" width="200" alt="Diabellstar"/>
+  <img src="https://i.imgur.com/M0QtPDW.png" width="200" alt="Diabellstar"/>
 </p>
+
 
 **Diabellstar** is a lightweight and effective tool written in Rust to bypass Event Tracing for Windows (ETW) by patching the `NtTraceEvent` API at runtime.
 
